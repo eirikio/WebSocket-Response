@@ -1,3 +1,3 @@
 # WebSocket-Response
 
-![screenshot of app](screenshot/screenshot.png)
+![screenshot of app](screenshot/screenshotja.png)
